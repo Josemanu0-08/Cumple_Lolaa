@@ -70,7 +70,8 @@ function getURLParam(name) {
 function showDedicationText() { //seguidores
   let text = getURLParam('text');
   if (!text) {
-    text = `Feliz cumpleaños ❤️🎉🥳
+    text = `(Antes de leer pulsa abajo donde la música)
+    Feliz cumpleaños ❤️🎉🥳
 Hoy es un día especial porque cumple años (¿Cuantos?, pues nose, aun no me has dicho, AJAJJAJAJ) alguien q en poco tiempo se ha vuelto DEMASIAADOOOO importante para mí. Te mereces TODO lo bonito del mundo, TODA la felicidad y todas las sonrisas, porque simplemente eres ÚNICA.
 
 Aunque la distancia no me deje estar a tu lado ahora mismo, quiero q sepas q te pienso, q te valoro y q estoy muuuyyyyy feliz de poder compartir este día contigo, aunque sea desde lejos. Mis sentimientos son muuyyy fuertes, y por eso deseo con todo mi corazón q este nuevo año de vida te traiga todo lo bueno q mereces.
